@@ -63,6 +63,6 @@ npm install
 # Start development server
 npm start
 
-# Open http://localhost:3000 to play!
+# Open http://localhost:3000 
 
 
