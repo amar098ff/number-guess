@@ -6,10 +6,7 @@ A beautiful, accessible number guessing game built with React featuring intellig
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Accessibility](https://img.shields.io/badge/Accessibility-100%25-orange)   
 
-
-
-
-## 🚀 Features
+# 🚀 Features
 
 - **🎮 Smart Gameplay**: Guess numbers with real-time feedback
 - **🧠 Math Hint System**: Get intelligent hints after 3 wrong guesses
@@ -45,6 +42,15 @@ Our AI-powered hint system provides mathematical insights:
 - Divisibility rules
 - Geometric sequence hints
 
+
+
+
+
+
+
+
+
+
 ## 🚀 Quick Start
 
 ```bash
@@ -58,3 +64,5 @@ npm install
 npm start
 
 # Open http://localhost:3000 to play!
+
+
