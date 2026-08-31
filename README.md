@@ -4,7 +4,10 @@ A beautiful, accessible number guessing game built with React featuring intellig
 
 ![React](https://img.shields.io/badge/React-18.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Accessibility](https://img.shields.io/badge/Accessibility-100%25-orange)
+![Accessibility](https://img.shields.io/badge/Accessibility-100%25-orange)   
+
+
+
 
 ## 🚀 Features
 
